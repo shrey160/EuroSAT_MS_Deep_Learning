@@ -12,5 +12,6 @@ A Euro_MS_Test_red dataset (1% of the original EuroSAT_MS) is provided in the da
 # EuroSAT_CompVIS.ipynb
  Contains code to make custom dataset loaders for pytorch and a custom CNN network based on MiniVGG architecture along with saving the trined models
 
-# test_models.ipynb
-Contains code to test the saved models
+# test_models.ipynb and test_models_conf_mat.ipynb
+Contains code to test the saved models and the conf_mat one also plots the confusion matrix. Two example confusion matrix for EuroSAT_M1_H39 model are given in results which achive a test accuracy of about 90%
+![plot](./results/conf_mat_M1_H39_idx.png)
