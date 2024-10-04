@@ -14,4 +14,4 @@ A Euro_MS_Test_red dataset (1% of the original EuroSAT_MS) is provided in the da
 
 # test_models.ipynb and test_models_conf_mat.ipynb
 Contains code to test the saved models and the conf_mat one also plots the confusion matrix. Two example confusion matrix for EuroSAT_M1_H39 model are given in results which achive a test accuracy of about 90%
-![plot](https://github.com/shrey160/EuroSAT_MS_Deep_Learning/blob/main/results/Conf_mat_M1_H39_idx.png)
+![plot](./results/Conf_mat_M1_H39_idx.png)
