@@ -26,4 +26,4 @@ Contains code to test the saved models and the conf_mat one also plots the confu
 
 
 ![plot](./results/Conf_mat_M1_H39_idx.png)
-![plot](./results/conf_mat_M1_H39_labels.png.png)
+![plot](./results/conf_mat_M1_H39_labels.png)
